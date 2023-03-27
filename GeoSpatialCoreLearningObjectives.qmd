@@ -1,0 +1,29 @@
+---
+title: "GeoSpatial Core Learning Objectives"
+format: revealjs
+editor: source
+title-slide-attributes: 
+  data-background-image: "media/ceslogo.png"
+  data-background-size: 45%
+  data-background-position: "left 10px top 10px"
+---
+
+## Program Learning Objectives  {.smaller}
+
+As a reminder, the following five Programmatic Learning Objectives are what we are using as the core evaluative components for our annual assessment and to help us understand if we are truly meeting the goals of our total academic program.
+
+-   **PLO 1 - Life Sciences**: Recall and transfer fundamental life science concepts (biology, ecology, evolution) to the conservation and management of natural resources.
+-   **PLO 2 - Social Sciences**: Recall and transfer fundamental social science concepts (policy, economics, politics) to the conservation and management of natural resources
+-   **PLO 3 - Physical Sciences**: Recall and transfer fundamental physical science concepts (geology, climate, physics?) to the conservation and management of natural resources
+-   **PLO 4 - Research Skills (GeoSpatial & Quantitative & Field):** Identify and implement the correct tools/skills to collect, visualize and analyze environmental data.
+-   **PLO 5 - Synthesis**: Implement interdisciplinary problem-solving by combining concepts and skills to address contemporary environmental challenges.
+
+## Learning Trajectory
+
+For each **PLO**, a set of core *Learning Objectives* are necessary. These are implemented at the course level but span multiple courses.
+
+-   Introduction Phase
+
+-   Reinforcement Phase
+
+-   Assessment Phase
